@@ -1,0 +1,10 @@
+/* HEADER */
+.header {
+    height: 100px;
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}

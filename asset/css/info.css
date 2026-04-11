@@ -1,0 +1,11 @@
+/* INFO */
+.info {
+    height: 200px;
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
